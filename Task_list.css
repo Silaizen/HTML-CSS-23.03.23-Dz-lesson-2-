@@ -1,0 +1,38 @@
+.font_styles {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0px 30px;
+}
+body {
+  background-color: #f5f5f5;
+}
+.style_marker {
+  height: 35px;
+  margin: 0px 0px 0px 27px;
+  padding: 0px 0px 0px 65px;
+}
+.marker_list_One {
+  background-color: #add8e5;
+  list-style-image: url(icons/unchecked_16.png);
+}
+
+.marker_list_Two {
+  background-color: #e2e2e2;
+  list-style-image: url(icons/checked_16.png);
+}
+
+.list_color_Three {
+  background-color: #a5ccdb;
+  list-style-image: url(icons/unchecked_16.png);
+}
+
+.container {
+  margin-right: 400px;
+}
+
+li {
+  padding: 8px 20px;
+}
+.style_span {
+  font-size: 10px;
+  padding: 0px 25px;
+}
